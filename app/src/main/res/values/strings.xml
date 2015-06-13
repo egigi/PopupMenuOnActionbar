@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Popup on ActionBar</string>
+    <string name="action_settings">Settings</string>
+</resources>
